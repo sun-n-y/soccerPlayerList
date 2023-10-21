@@ -1,8 +1,15 @@
-# React + Vite
+<a name="custom_anchor_name"></a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# a soccer player list, React App :soccer:
 
-Currently, two official plugins are available:
+## Concepts applied but not limited too
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ### using vite
+- ### add components
+- ### refactor components
+- ### array map method
+- ### destructing objects
+- ### import local data
+- ### vite to git hub pages
+
+[Back to Top](#custom_anchor_name)

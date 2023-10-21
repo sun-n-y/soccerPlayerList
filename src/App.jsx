@@ -1,9 +1,15 @@
 import { useState } from 'react';
+import { data } from './data';
 
 function App() {
+  const [players, setPlayer] = useState(data);
   return (
     <>
-      <h1>start</h1>
+      <main>
+        <div className="container">
+          <h2>{players.length} players</h2>
+        </div>
+      </main>
     </>
   );
 }

@@ -8,10 +8,10 @@ export const data = [
   },
   {
     id: 2,
-    name: 'cristiano ronaldo',
-    number: 7,
+    name: 'moussa dembele',
+    number: 19,
     image:
-      'https://images.pexels.com/photos/11565658/pexels-photo-11565658.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      'https://images.pexels.com/photos/13913400/pexels-photo-13913400.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
   },
   {
     id: 3,
@@ -22,16 +22,16 @@ export const data = [
   },
   {
     id: 4,
-    name: 'david silva',
-    number: 10,
+    name: 'sergio ramos',
+    number: 4,
     image:
       'https://images.pexels.com/photos/54097/spain-flag-flutter-spanish-54097.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
   },
   {
     id: 5,
-    name: 'ronaldo',
-    number: 9,
+    name: 'keylor navas',
+    number: 1,
     image:
-      'https://images.pexels.com/photos/10354052/pexels-photo-10354052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      'https://images.pexels.com/photos/13980528/pexels-photo-13980528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
   },
 ];
